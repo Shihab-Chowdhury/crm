@@ -16,10 +16,7 @@
     "url": "https://github.com/Shihab-Chowdhury/crm/issues"
   },
   "homepage": "https://github.com/Shihab-Chowdhury/crm#readme",
-  "dependencies": {
-    "@babel/cli": "^7.14.8",
-    "@babel/core": "^7.14.8",
-    "@babel/node": "^7.14.9",
+  "dependencies": {   
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
     "mongodb": "^4.0.1",
